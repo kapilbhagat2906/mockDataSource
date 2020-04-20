@@ -2,22 +2,22 @@
 	"assignments": [
 		{
 			"title": "Count Down Timer",
-			"description": "",
+			"description": "This application displays an intercative timer. The timer color signifies its different states. Timer is initially green in color which changes to red 5 secs before timer is about to die.",
 			"routeLink": "/countdownTimer"
 		},
 		{
 			"title": "Banner Rotation",
-			"description": "",
+			"description": "This application demonstrate text rotation like a moving banner using angular animations",
 			"routeLink": "/bannerRotation"
 		},
 		{
 			"title": "E-Commerce App",
-			"description": "",
+			"description": "This is a mock E-commerce app to demonstrate sorting based on product price. Also user can switch the view modes: Grid and List views.",
 			"routeLink": "/ecommerceApp"
 		},
 		{
 			"title": "Table Sorting",
-			"description": "",
+			"description": "This application demonstrate Sorting Feature when table column header is clicked. Table headers are created dynamically with response data.",
 			"routeLink": "/tableSorting"
 		}
 	]
