@@ -1,24 +1,24 @@
 {
-	"assignments": [ 
+	"assignments": [
 		{
 			"title": "Count Down Timer",
 			"description": "",
-			"routeLink": ""
+			"routeLink": "/countdownTimer"
 		},
 		{
 			"title": "Banner Rotation",
 			"description": "",
-			"routeLink": ""
+			"routeLink": "/bannerRotation"
 		},
 		{
 			"title": "E-Commerce App",
 			"description": "",
-			"routeLink": ""
+			"routeLink": "/ecommerceApp"
 		},
 		{
 			"title": "Table Sorting",
 			"description": "",
-			"routeLink": ""
+			"routeLink": "/tableSorting"
 		}
 	]
 }
